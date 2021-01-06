@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: white;
+}
+#rune {
+  display: block;
+  background-color: tomato;
+  height: 50vh;
+  width: 50vw;
+}

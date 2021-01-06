@@ -1,0 +1,82 @@
+{
+  "phase": 2,
+  "glyphs": [
+    {
+      "sigil": [
+        "apm",
+        "apm",
+        "enhance",
+        "stab",
+        "enhance",
+        "fire",
+        "enhance",
+        "apm"
+      ],
+      "connections": [1, 2, 3, 4]
+    },
+    {
+      "sigil": [
+        "fire",
+        "enhance",
+        "stab",
+        "stab",
+        "stab",
+        "stab",
+        "stab",
+        "enhance"
+      ],
+      "connections": [4, 5, 8, 9]
+    },
+    {
+      "sigil": [
+        "apm",
+        "enhance",
+        "fire",
+        "fire",
+        "enhance",
+        "fire",
+        "fire",
+        "enhance"
+      ],
+      "connections": [3, 7, 9, 10]
+    },
+    {
+      "sigil": [
+        "enhance",
+        "stab",
+        "enhance",
+        "fire",
+        "enhance",
+        "amp",
+        "enhance",
+        "apm"
+      ],
+      "connections": [2, 6, 8, 10]
+    },
+    {
+      "sigil": [
+        "apm",
+        "enhance",
+        "fire",
+        "enhance",
+        "enhance",
+        "fire",
+        "enhance",
+        "apm"
+      ],
+      "connections": [1, 5, 6, 7]
+    }
+  ],
+  "bindings": [
+    "acc",
+    "acc",
+    "acc",
+    "multi",
+    "multi",
+    "multi",
+    "aug",
+    "forti",
+    "aug",
+    "aug"
+  ]
+}
